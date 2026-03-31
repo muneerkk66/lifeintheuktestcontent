@@ -1,0 +1,590 @@
+[
+  {
+    "id": "hist_001",
+    "category": "history",
+    "title": "Henry VIII's 6 Wives",
+    "tip": "Divorced, Beheaded, Died — Divorced, Beheaded, Survived",
+    "detail": "Catherine of Aragon (divorced), Anne Boleyn (beheaded), Jane Seymour (died in childbirth), Anne of Cleves (divorced), Catherine Howard (beheaded), Catherine Parr (survived Henry)."
+  },
+  {
+    "id": "hist_002",
+    "category": "history",
+    "title": "1066 — Norman Conquest",
+    "tip": "1066 = William the Conqueror wins at Hastings",
+    "detail": "William of Normandy defeated King Harold at the Battle of Hastings in 1066 and became William I of England, fundamentally changing English language, culture and governance."
+  },
+  {
+    "id": "hist_003",
+    "category": "history",
+    "title": "The Black Death",
+    "tip": "One THIRD of England's population died",
+    "detail": "The Black Death (bubonic plague) arrived in 1348 and killed about one third of the population of England. It had a huge impact on society, leading to labour shortages and social change."
+  },
+  {
+    "id": "hist_004",
+    "category": "history",
+    "title": "Wars of the Roses",
+    "tip": "Red = Lancaster, White = York",
+    "detail": "The Wars of the Roses (1455–1485) were civil wars between the House of Lancaster (red rose) and the House of York (white rose) for the English throne. Henry Tudor (Lancaster) won at Bosworth Field."
+  },
+  {
+    "id": "hist_005",
+    "category": "history",
+    "title": "Charles I Was Executed",
+    "tip": "Charles I = the king who lost his head in 1649",
+    "detail": "After losing the English Civil War to Oliver Cromwell's Parliamentarians, King Charles I was tried for treason and executed in 1649 — the first time England executed its own monarch."
+  },
+  {
+    "id": "hist_006",
+    "category": "history",
+    "title": "The Glorious Revolution 1688",
+    "tip": "William of Orange was INVITED to invade — no battle needed",
+    "detail": "In 1688 Protestant nobles invited William of Orange (Holland) to take the throne. He landed with an army and James II fled to France — called 'Glorious' because almost no blood was shed."
+  },
+  {
+    "id": "hist_007",
+    "category": "history",
+    "title": "Margaret Thatcher — Longest 20th Century PM",
+    "tip": "Thatcher = 11 years (1979–1990) — the 'Iron Lady'",
+    "detail": "Margaret Thatcher served as Prime Minister from 1979 to 1990, making her the longest-serving British PM of the 20th century and the first female Prime Minister of the UK."
+  },
+  {
+    "id": "hist_008",
+    "category": "history",
+    "title": "The Irish Potato Famine",
+    "tip": "Potato blight → mass emigration from Ireland in the 1840s",
+    "detail": "A disease destroyed Ireland's potato crop in the 1840s, causing widespread famine. Over a million died and many more emigrated to America and Britain, dramatically changing Ireland's population."
+  },
+  {
+    "id": "hist_009",
+    "category": "history",
+    "title": "Magna Carta 1215",
+    "tip": "1215 = King John forced to sign — no one is above the law",
+    "detail": "Magna Carta (Great Charter) was signed by King John in 1215 after nobles rebelled. It established that the king must follow the law — a cornerstone of constitutional democracy."
+  },
+  {
+    "id": "hist_010",
+    "category": "history",
+    "title": "Oliver Cromwell's Commonwealth",
+    "tip": "Cromwell = ruled England without a king for 11 years",
+    "detail": "After Charles I's execution, Oliver Cromwell became Lord Protector (1649–1660). England was briefly a republic until Charles II was restored to the throne in 1660."
+  },
+  {
+    "id": "hist_011",
+    "category": "history",
+    "title": "The Industrial Revolution",
+    "tip": "Steam power + factories = Britain led the world 1760s onwards",
+    "detail": "Britain was the birthplace of the Industrial Revolution. James Watt's improved steam engine, textile mills, and railways transformed Britain from a farming society into the world's first industrial nation."
+  },
+  {
+    "id": "hist_012",
+    "category": "history",
+    "title": "Slavery Abolished 1833",
+    "tip": "Slavery ended across the British Empire in 1833",
+    "detail": "The Slavery Abolition Act 1833 abolished slavery throughout the British Empire (except some territories). William Wilberforce was a leading campaigner who devoted his life to ending the slave trade."
+  },
+  {
+    "id": "hist_013",
+    "category": "history",
+    "title": "Women's Right to Vote",
+    "tip": "1918 = women 30+, 1928 = women equal to men (21+)",
+    "detail": "After years of suffragette campaigning led by figures like Emmeline Pankhurst, women over 30 got the vote in 1918. Full equal voting rights came in 1928 when women could vote at 21, same as men."
+  },
+  {
+    "id": "hist_014",
+    "category": "history",
+    "title": "The Battle of the Boyne 1690",
+    "tip": "William III defeated James II in Ireland — 1690",
+    "detail": "The Battle of the Boyne (1690) saw Protestant King William III defeat Catholic King James II in Ireland. This confirmed Protestant rule and is still commemorated by Orange Order marches in Northern Ireland."
+  },
+  {
+    "id": "hist_015",
+    "category": "history",
+    "title": "The World Wars",
+    "tip": "WWI = 1914–1918 (Four years), WWII = 1939–1945 (Six years)",
+    "detail": "WWI began in 1914 and ended in 1918. WWII began when Germany invaded Poland in 1939 and ended in 1945 with Germany's and Japan's defeat. The UK was on the winning Allied side in both wars."
+  },
+  {
+    "id": "hist_016",
+    "category": "history",
+    "title": "The Jarrow March 1936",
+    "tip": "200 unemployed men marched from Jarrow to London in 1936",
+    "detail": "When the Jarrow shipyard closed, 200 unemployed men marched 300 miles from Jarrow to London to petition Parliament. It became a symbol of the hardship caused by unemployment and the Great Depression."
+  },
+  {
+    "id": "hist_017",
+    "category": "history",
+    "title": "Skara Brae — Prehistoric Scotland",
+    "tip": "Skara Brae = best-preserved prehistoric village in N. Europe, Scotland",
+    "detail": "Skara Brae on Orkney, Scotland, is the best-preserved Neolithic (Stone Age) village in northern Europe. It was inhabited around 3000 BC — older than Stonehenge and the Egyptian pyramids."
+  },
+  {
+    "id": "hist_018",
+    "category": "history",
+    "title": "The Reformation",
+    "tip": "Henry VIII broke from Rome to create the Church of England",
+    "detail": "Henry VIII wanted to divorce Catherine of Aragon but the Pope refused. Henry broke with the Catholic Church and made himself Supreme Head of the Church of England, triggering the English Reformation."
+  },
+  {
+    "id": "gov_001",
+    "category": "government",
+    "title": "House of Commons vs House of Lords",
+    "tip": "Commons = ELECTED by public. Lords = APPOINTED (not elected).",
+    "detail": "The House of Commons has 650 elected MPs representing constituencies. The House of Lords has around 800 unelected members including life peers, bishops and some hereditary peers. Both make up Parliament."
+  },
+  {
+    "id": "gov_002",
+    "category": "government",
+    "title": "The Speaker",
+    "tip": "The Speaker = impartial chair of Commons debates — does NOT vote",
+    "detail": "The Speaker is elected by MPs to chair House of Commons debates. They must be strictly impartial and give up party membership. The Speaker controls debate and maintains order."
+  },
+  {
+    "id": "gov_003",
+    "category": "government",
+    "title": "The Shadow Cabinet",
+    "tip": "Shadow Cabinet = opposition's mirror government, ready to take over",
+    "detail": "The official opposition appoints a Shadow Cabinet that mirrors the real Cabinet. Each shadow minister scrutinises the corresponding real minister. If the opposition wins an election, the Shadow Cabinet becomes the real Cabinet."
+  },
+  {
+    "id": "gov_004",
+    "category": "government",
+    "title": "Scottish Parliament",
+    "tip": "Scottish Parliament = 129 MSPs, based in Edinburgh (Holyrood)",
+    "detail": "The Scottish Parliament has 129 elected Members (MSPs) and was established in 1999 through devolution. It can pass laws and varies taxes on devolved matters like health, education and justice."
+  },
+  {
+    "id": "gov_005",
+    "category": "government",
+    "title": "Welsh Senedd",
+    "tip": "Welsh Senedd (Parliament) = 60 Members (MS), based in Cardiff Bay",
+    "detail": "The Senedd Cymru (Welsh Parliament) has 60 elected Members of the Senedd (MS). It has powers over devolved areas including health, education, agriculture and some taxes."
+  },
+  {
+    "id": "gov_006",
+    "category": "government",
+    "title": "Northern Ireland Assembly",
+    "tip": "NI Assembly = 90 MLAs, based at Stormont, Belfast",
+    "detail": "The Northern Ireland Assembly has 90 elected Members of the Legislative Assembly (MLAs). It was created by the Good Friday Agreement in 1998 and has powers over devolved matters."
+  },
+  {
+    "id": "gov_007",
+    "category": "government",
+    "title": "The Prime Minister's Address",
+    "tip": "PM lives at 10 Downing Street. Chancellor at No. 11.",
+    "detail": "The Prime Minister's official residence and office is 10 Downing Street, London. The Chancellor of the Exchequer lives next door at No. 11 Downing Street."
+  },
+  {
+    "id": "gov_008",
+    "category": "government",
+    "title": "The Role of the Monarch",
+    "tip": "Monarch = Head of State (ceremonial). PM = Head of Government (real power).",
+    "detail": "The UK is a constitutional monarchy. The Monarch (King or Queen) is the Head of State with ceremonial duties. Real political power lies with the Prime Minister and Cabinet who are accountable to Parliament."
+  },
+  {
+    "id": "gov_009",
+    "category": "government",
+    "title": "How a Bill Becomes Law",
+    "tip": "Bill → Commons → Lords → Royal Assent = Act of Parliament",
+    "detail": "A Bill must pass through multiple readings in the House of Commons, then the House of Lords. Once both agree, it receives Royal Assent from the Monarch and becomes an Act of Parliament (law)."
+  },
+  {
+    "id": "gov_010",
+    "category": "government",
+    "title": "First Past the Post (FPTP)",
+    "tip": "FPTP = winner takes all, even with just one vote more",
+    "detail": "Westminster elections use First Past the Post — the candidate with the most votes wins, even if it's not a majority. It tends to produce strong majority governments but smaller parties can win fewer seats than their vote share."
+  },
+  {
+    "id": "gov_011",
+    "category": "government",
+    "title": "Crown Dependencies",
+    "tip": "Crown Dependencies = Isle of Man + Jersey + Guernsey (NOT part of UK)",
+    "detail": "Crown Dependencies are self-governing territories linked to the UK Crown but NOT part of the United Kingdom or the EU. The UK government looks after their defence and international relations."
+  },
+  {
+    "id": "gov_012",
+    "category": "government",
+    "title": "The Cabinet",
+    "tip": "Cabinet = PM + ~22 senior ministers who run government departments",
+    "detail": "The Cabinet is chaired by the Prime Minister and usually meets weekly. It includes the heads of major government departments like the Home Secretary, Chancellor, Foreign Secretary and Defence Secretary."
+  },
+  {
+    "id": "gov_013",
+    "category": "government",
+    "title": "The Civil Service",
+    "tip": "Civil servants = permanent staff who carry out government policy (politically neutral)",
+    "detail": "Civil servants work for the government regardless of which party is in power. They are neutral and implement the policies of whichever government is elected. Senior civil servants advise ministers."
+  },
+  {
+    "id": "law_001",
+    "category": "law",
+    "title": "Scotland's Three Verdicts",
+    "tip": "Scotland has 3 verdicts: Guilty, Not Guilty — AND 'Not Proven' (unique!)",
+    "detail": "Unlike England and Wales (Guilty / Not Guilty), Scottish criminal courts have a third verdict: Not Proven. This means the jury is not convinced of guilt but not fully acquitting either. The accused goes free."
+  },
+  {
+    "id": "law_002",
+    "category": "law",
+    "title": "Jury Size",
+    "tip": "England/Wales = 12 jurors. Scotland = 15 jurors.",
+    "detail": "In England and Wales a jury consists of 12 members of the public. In Scotland a jury has 15 members. Jury members are randomly selected from the electoral register."
+  },
+  {
+    "id": "law_003",
+    "category": "law",
+    "title": "Crown Court vs Magistrates",
+    "tip": "Serious crimes = Crown Court (jury). Minor crimes = Magistrates Court (no jury).",
+    "detail": "Magistrates Courts handle minor crimes quickly without a jury. Crown Courts handle serious crimes with a jury of 12. Scotland uses Sheriff Courts for most cases, with a High Court for the most serious."
+  },
+  {
+    "id": "law_004",
+    "category": "law",
+    "title": "Civil vs Criminal Law",
+    "tip": "Criminal = state vs person (crime). Civil = person vs person (dispute).",
+    "detail": "Criminal law covers offences against society (murder, theft) — prosecuted by the Crown. Civil law covers disputes between individuals or organisations (contracts, negligence, divorce) — one party sues another."
+  },
+  {
+    "id": "law_005",
+    "category": "law",
+    "title": "Sheriff Court — Scotland",
+    "tip": "Scotland's Sheriff Court = equivalent of County + Crown Court combined",
+    "detail": "The Sheriff Court in Scotland handles most civil and criminal cases. For most serious crimes, Scotland has the High Court of Justiciary. Scotland has its own entirely separate legal system from England and Wales."
+  },
+  {
+    "id": "law_006",
+    "category": "law",
+    "title": "Youth Courts",
+    "tip": "Under-18s go to Youth Courts — specially trained judges, not public",
+    "detail": "Youth Courts are part of the Magistrates Court and deal with young people under 18. They use specially trained magistrates or district judges and the public are not allowed to attend."
+  },
+  {
+    "id": "law_007",
+    "category": "law",
+    "title": "The Ombudsman",
+    "tip": "Ombudsman = independent person who investigates complaints about public services",
+    "detail": "If you have a complaint about a government department, NHS or local authority, you can take it to the relevant Ombudsman. They investigate and can recommend remedies but cannot force changes."
+  },
+  {
+    "id": "law_008",
+    "category": "law",
+    "title": "The European Convention on Human Rights",
+    "tip": "UK adopted ECHR in 1950 — incorporated into UK law via Human Rights Act 1998",
+    "detail": "The UK helped draft the European Convention on Human Rights after WWII. The Human Rights Act 1998 made these rights directly enforceable in UK courts without having to go to Strasbourg."
+  },
+  {
+    "id": "soc_001",
+    "category": "society",
+    "title": "Patron Saints & Days",
+    "tip": "George = England (23 Apr), David = Wales (1 Mar), Patrick = Ireland (17 Mar), Andrew = Scotland (30 Nov)",
+    "detail": "Each nation of the UK has its own patron saint and day: St George for England (23 April), St David for Wales (1 March), St Patrick for Ireland (17 March), St Andrew for Scotland (30 November)."
+  },
+  {
+    "id": "soc_002",
+    "category": "society",
+    "title": "Bonfire Night",
+    "tip": "Bonfire Night = 5 November — Guy Fawkes tried to blow up Parliament in 1605",
+    "detail": "On 5 November 1605, Guy Fawkes and the Gunpowder Plot conspirators planned to blow up the Houses of Parliament and kill King James I. They were caught. The failure is celebrated with fireworks and bonfires each year."
+  },
+  {
+    "id": "soc_003",
+    "category": "society",
+    "title": "Diwali",
+    "tip": "Diwali = Festival of Light, celebrated by Hindus AND Sikhs",
+    "detail": "Diwali is the Festival of Light celebrated in October or November. It is a major festival for Hindus and Sikhs. People light candles and lamps, exchange gifts and watch fireworks."
+  },
+  {
+    "id": "soc_004",
+    "category": "society",
+    "title": "Hanukkah",
+    "tip": "Hanukkah = 8-day Jewish festival, 8 candles on a menorah",
+    "detail": "Hanukkah is the Jewish Festival of Lights, lasting 8 days. One candle of the menorah (candelabra) is lit each day. It usually falls in November or December."
+  },
+  {
+    "id": "soc_005",
+    "category": "society",
+    "title": "Eid",
+    "tip": "Eid ul Fitr = end of Ramadan fasting. Eid ul Adha = Festival of Sacrifice.",
+    "detail": "Eid ul Fitr marks the end of Ramadan (the month of fasting) with celebration and feasting. Eid ul Adha honours the Prophet Ibrahim's willingness to sacrifice his son. Both are major Muslim festivals."
+  },
+  {
+    "id": "soc_006",
+    "category": "society",
+    "title": "Wimbledon",
+    "tip": "Wimbledon = the oldest tennis tournament in the world",
+    "detail": "The Wimbledon Championships, held in south-west London, is the oldest tennis tournament in the world and considered the most prestigious. It has been held since 1877."
+  },
+  {
+    "id": "soc_007",
+    "category": "society",
+    "title": "The Grand National",
+    "tip": "Grand National = famous horse race at Aintree, near Liverpool",
+    "detail": "The Grand National is one of the most famous horse races in the world, held at Aintree Racecourse near Liverpool each spring. It has over 30 fences and attracts huge public interest."
+  },
+  {
+    "id": "soc_008",
+    "category": "society",
+    "title": "William Shakespeare",
+    "tip": "Shakespeare: born Stratford-upon-Avon 1564, died 1616 — wrote 37 plays",
+    "detail": "William Shakespeare was born in Stratford-upon-Avon in 1564 and is considered the greatest playwright in the English language. He wrote 37 plays and 154 sonnets. He worked mainly in London at the Globe Theatre."
+  },
+  {
+    "id": "soc_009",
+    "category": "society",
+    "title": "The BBC",
+    "tip": "BBC = British Broadcasting Corporation, established by Royal Charter",
+    "detail": "The BBC is the world's oldest national broadcasting organisation, established in 1927 by Royal Charter. It is funded by the TV licence fee and must remain politically independent and impartial."
+  },
+  {
+    "id": "soc_010",
+    "category": "society",
+    "title": "The National Lottery",
+    "tip": "National Lottery started in 1994 — part of proceeds go to good causes",
+    "detail": "The National Lottery was established in 1994. A portion of ticket sales goes to good causes including sports, arts, heritage and community projects. It has raised billions of pounds for charitable causes."
+  },
+  {
+    "id": "soc_011",
+    "category": "society",
+    "title": "Notting Hill Carnival",
+    "tip": "Notting Hill Carnival = largest street festival in Europe, held each August",
+    "detail": "The Notting Hill Carnival takes place in West London every August Bank Holiday weekend. It originated in the 1960s with the Caribbean community and is now the largest street festival in Europe, attracting millions of visitors."
+  },
+  {
+    "id": "soc_012",
+    "category": "society",
+    "title": "Six Nations Rugby",
+    "tip": "Six Nations = England, Scotland, Wales, Ireland, France, Italy — annual rugby championship",
+    "detail": "The Six Nations Championship is an annual rugby union tournament contested by England, Scotland, Wales, Ireland, France and Italy. A team winning all five matches achieves a 'Grand Slam'."
+  },
+  {
+    "id": "soc_013",
+    "category": "society",
+    "title": "The FA Cup",
+    "tip": "FA Cup = oldest football competition in the world (started 1871)",
+    "detail": "The Football Association Challenge Cup (FA Cup) began in 1871 and is the oldest football competition in the world. Any English football club from any level can enter, making giant-killing upsets possible."
+  },
+  {
+    "id": "soc_014",
+    "category": "society",
+    "title": "Remembrance Day",
+    "tip": "Remembrance Day = 11 November at 11am — poppies worn in honour of war dead",
+    "detail": "Remembrance Day (Armistice Day) on 11 November marks the end of WWI at 11am on 11/11/1918. The poppy is worn as a symbol of remembrance. A two-minute silence is observed across the UK."
+  },
+  {
+    "id": "geo_001",
+    "category": "geography",
+    "title": "Giant's Causeway",
+    "tip": "Giant's Causeway = Northern Ireland (not Scotland!)",
+    "detail": "The Giant's Causeway on the north coast of Northern Ireland consists of around 40,000 interlocking hexagonal basalt columns formed by ancient volcanic activity. It is a UNESCO World Heritage Site."
+  },
+  {
+    "id": "geo_002",
+    "category": "geography",
+    "title": "UK Capital Cities",
+    "tip": "London (England/UK), Edinburgh (Scotland), Cardiff (Wales), Belfast (NI)",
+    "detail": "The United Kingdom has four capital cities: London is the capital of England and the UK, Edinburgh is the capital of Scotland, Cardiff is the capital of Wales, and Belfast is the capital of Northern Ireland."
+  },
+  {
+    "id": "geo_003",
+    "category": "geography",
+    "title": "Ben Nevis",
+    "tip": "Ben Nevis = highest mountain in the UK, located in Scotland",
+    "detail": "Ben Nevis in the Scottish Highlands is the highest mountain in the United Kingdom at 1,345 metres (4,413 feet). It is near the town of Fort William and is climbed by around 125,000 people a year."
+  },
+  {
+    "id": "geo_004",
+    "category": "geography",
+    "title": "Loch Lomond",
+    "tip": "Loch Lomond = largest lake (by surface area) in Great Britain, Scotland",
+    "detail": "Loch Lomond in Scotland is the largest lake in Great Britain by surface area. It lies on the Highland Boundary Fault and is part of the Loch Lomond and The Trossachs National Park."
+  },
+  {
+    "id": "geo_005",
+    "category": "geography",
+    "title": "Stonehenge",
+    "tip": "Stonehenge = Wiltshire, England — Neolithic monument, built around 3000 BC",
+    "detail": "Stonehenge is a prehistoric ring of standing stones on Salisbury Plain in Wiltshire, England. It was built in stages from around 3000 BC. Its purpose is debated — possibly ceremonial or astronomical."
+  },
+  {
+    "id": "geo_006",
+    "category": "geography",
+    "title": "River Severn",
+    "tip": "River Severn = longest river in the UK (flows through Wales and England)",
+    "detail": "The River Severn is the longest river in the United Kingdom at 354 km (220 miles). It rises in Wales, flows through Shrewsbury and Gloucester and enters the Bristol Channel."
+  },
+  {
+    "id": "geo_007",
+    "category": "geography",
+    "title": "Hadrian's Wall",
+    "tip": "Hadrian's Wall = built by Romans across northern England around AD 122",
+    "detail": "Hadrian's Wall was built on the orders of Emperor Hadrian around AD 122 to mark and defend the northern frontier of Roman Britain. It stretched 73 miles from Solway Firth to the River Tyne."
+  },
+  {
+    "id": "geo_008",
+    "category": "geography",
+    "title": "The Lake District",
+    "tip": "Lake District = England's largest National Park, in Cumbria",
+    "detail": "The Lake District National Park in Cumbria, north-west England, is England's largest National Park. It contains England's highest mountain (Scafell Pike) and deepest lake (Wastwater). It is a UNESCO World Heritage Site."
+  },
+  {
+    "id": "geo_009",
+    "category": "geography",
+    "title": "Crown Dependencies vs Overseas Territories",
+    "tip": "Crown Dependencies (Isle of Man, Channel Islands) ≠ British Overseas Territories (Gibraltar, etc.)",
+    "detail": "Crown Dependencies (Isle of Man, Jersey, Guernsey) are self-governing and closely linked to the Crown but NOT part of the UK. British Overseas Territories (Gibraltar, Falkland Islands, etc.) are a separate category of territory."
+  },
+  {
+    "id": "geo_010",
+    "category": "geography",
+    "title": "Windsor Castle",
+    "tip": "Windsor Castle = oldest and largest occupied castle in the world",
+    "detail": "Windsor Castle in Berkshire is the oldest and largest occupied castle in the world. It has been a royal residence for over 900 years and is one of the official residences of the Monarch."
+  },
+  {
+    "id": "cit_001",
+    "category": "citizenship",
+    "title": "Age Limits — The 16/17/18 Rule",
+    "tip": "16 = Moped. 17 = Car. 18 = Vote, alcohol, tobacco, full driving licence.",
+    "detail": "Key age limits in the UK: 16 — drive a moped, consent to sex, buy a lottery ticket. 17 — drive a car (with provisional licence). 18 — vote, buy alcohol and tobacco, gamble in a casino, serve on a jury."
+  },
+  {
+    "id": "cit_002",
+    "category": "citizenship",
+    "title": "British Values",
+    "tip": "DIRT: Democracy, Individual liberty, Rule of law, Tolerance & mutual respect",
+    "detail": "The fundamental values of British society are: Democracy (everyone has a say), Individual Liberty (freedom within the law), Rule of Law (law applies equally to all), Mutual Respect and Tolerance (respect for all backgrounds and beliefs)."
+  },
+  {
+    "id": "cit_003",
+    "category": "citizenship",
+    "title": "The NHS",
+    "tip": "NHS = free at the point of use for UK residents — funded by taxes",
+    "detail": "The National Health Service (NHS) was created in 1948. It provides healthcare that is free at the point of use for all UK residents, funded by general taxation and National Insurance contributions."
+  },
+  {
+    "id": "cit_004",
+    "category": "citizenship",
+    "title": "Emergency Numbers",
+    "tip": "999 (or 112) = emergency. 101 = non-urgent police. 111 = NHS non-emergency.",
+    "detail": "Call 999 (or 112) for emergencies requiring police, fire or ambulance. Call 101 for non-emergency police matters. Call 111 for urgent but non-emergency medical advice. 101 and 111 are free calls."
+  },
+  {
+    "id": "cit_005",
+    "category": "citizenship",
+    "title": "National Insurance",
+    "tip": "National Insurance contributions = fund NHS, pensions, unemployment benefits",
+    "detail": "National Insurance (NI) is a tax on earnings paid by employees and employers. Your NI record affects your entitlement to the State Pension and certain other benefits. Your NI number is unique to you for life."
+  },
+  {
+    "id": "cit_006",
+    "category": "citizenship",
+    "title": "No Written Constitution",
+    "tip": "UK has NO single written constitution — it's made up of laws and conventions",
+    "detail": "Unlike the USA, the UK does not have a single written constitution. Instead, the UK constitution consists of Acts of Parliament (like the Human Rights Act), common law, conventions and authoritative documents like Magna Carta."
+  },
+  {
+    "id": "cit_007",
+    "category": "citizenship",
+    "title": "Drive on the Left",
+    "tip": "UK drives on the LEFT — opposite to most of Europe",
+    "detail": "In the UK, traffic drives on the left side of the road and overtakes on the right — opposite to most continental European countries. This is one of the practical things tested in the Life in the UK exam."
+  },
+  {
+    "id": "cit_008",
+    "category": "citizenship",
+    "title": "Volunteering in the UK",
+    "tip": "About 1 in 4 people in the UK volunteer regularly — it is actively encouraged",
+    "detail": "Volunteering is an important part of UK life. Around a quarter of the adult population volunteers regularly. Volunteering helps communities, looks good on CVs and is seen as a core civic responsibility."
+  },
+  {
+    "id": "cit_009",
+    "category": "citizenship",
+    "title": "Freedom of Speech",
+    "tip": "Freedom of speech is a fundamental UK right — but with legal limits (e.g. no incitement to hatred)",
+    "detail": "Freedom of speech is protected in the UK but is not absolute. Speech that incites racial or religious hatred, harassment or defamation is illegal. Peaceful protest and criticism of the government are lawful."
+  },
+  {
+    "id": "cit_010",
+    "category": "citizenship",
+    "title": "The Welfare State",
+    "tip": "Welfare state created after WWII — NHS (1948) + benefits + state education",
+    "detail": "After WWII, the Labour government created the welfare state based on the Beveridge Report. This included the NHS (1948), the social security system, free secondary education for all and social housing."
+  },
+  {
+    "id": "cit_011",
+    "category": "citizenship",
+    "title": "Council Tax",
+    "tip": "Council Tax = local tax paid to fund local services (police, rubbish, roads)",
+    "detail": "Council Tax is a local government tax based on the estimated value of your home. It funds local services such as rubbish collection, local roads, schools, police and fire services. Students are often exempt."
+  },
+  {
+    "id": "sci_001",
+    "category": "science",
+    "title": "DNA Double Helix",
+    "tip": "Francis Crick (British) + James Watson co-discovered DNA structure in 1953",
+    "detail": "In 1953, Francis Crick and James Watson described the double helix structure of DNA at Cambridge University. This is one of the most important scientific discoveries of the 20th century. Rosalind Franklin's X-ray work was crucial."
+  },
+  {
+    "id": "sci_002",
+    "category": "science",
+    "title": "World Wide Web",
+    "tip": "Tim Berners-Lee invented the World Wide Web in 1989",
+    "detail": "British scientist Sir Tim Berners-Lee invented the World Wide Web in 1989 while working at CERN in Switzerland. He made it freely available to the world — one of the greatest gifts to modern civilisation."
+  },
+  {
+    "id": "sci_003",
+    "category": "science",
+    "title": "Television",
+    "tip": "John Logie Baird = Scottish inventor of the television (1920s)",
+    "detail": "John Logie Baird, a Scottish inventor, gave the first public demonstration of a working television in 1926. He demonstrated colour TV in 1928. He is widely credited as the inventor of the world's first practical television."
+  },
+  {
+    "id": "sci_004",
+    "category": "science",
+    "title": "Penicillin",
+    "tip": "Alexander Fleming discovered penicillin in 1928 — the first antibiotic",
+    "detail": "Scottish bacteriologist Alexander Fleming discovered penicillin by accident in 1928 when he noticed a mould killing bacteria in his lab. This led to the development of antibiotics and has saved hundreds of millions of lives."
+  },
+  {
+    "id": "sci_005",
+    "category": "science",
+    "title": "Isaac Newton",
+    "tip": "Isaac Newton: Laws of Motion + Gravity + developed calculus (1600s)",
+    "detail": "Sir Isaac Newton was one of the most influential scientists of all time. In the 1660s he formulated the laws of motion and universal gravitation, and independently developed calculus. His Principia Mathematica changed physics forever."
+  },
+  {
+    "id": "sci_006",
+    "category": "science",
+    "title": "Charles Darwin",
+    "tip": "Charles Darwin = theory of evolution by natural selection (1859)",
+    "detail": "Charles Darwin published On the Origin of Species in 1859, introducing the theory that all species evolved over time through natural selection. He developed the theory after his voyage on HMS Beagle to the Galapagos Islands."
+  },
+  {
+    "id": "sci_007",
+    "category": "science",
+    "title": "James Watt",
+    "tip": "James Watt improved the steam engine — powered the Industrial Revolution",
+    "detail": "Scottish engineer James Watt significantly improved the steam engine in the 1760s and 1780s, making it practical for powering factories, trains and ships. His work was essential to the Industrial Revolution."
+  },
+  {
+    "id": "sci_008",
+    "category": "science",
+    "title": "Roger Bannister",
+    "tip": "Roger Bannister = first person to run a mile in under 4 minutes (1954)",
+    "detail": "Roger Bannister became the first person to run a mile in under 4 minutes on 6 May 1954 at Oxford University track, running it in 3 minutes 59.4 seconds. It was considered an impossible athletic barrier before he broke it."
+  },
+  {
+    "id": "sci_009",
+    "category": "science",
+    "title": "Dolly the Sheep",
+    "tip": "Dolly the sheep = world's first cloned mammal, by Ian Wilmut (1996, Scotland)",
+    "detail": "Dolly the sheep was the world's first mammal to be cloned from an adult cell, created by Sir Ian Wilmut and colleagues at the Roslin Institute near Edinburgh in 1996. She was named after Dolly Parton."
+  },
+  {
+    "id": "sci_010",
+    "category": "science",
+    "title": "Radar",
+    "tip": "Robert Watson-Watt developed radar in Britain — crucial in WWII",
+    "detail": "Scottish physicist Robert Watson-Watt developed a practical radar system in the 1930s. Radar (Radio Detection And Ranging) was crucial in WWII, allowing Britain to detect approaching German aircraft and win the Battle of Britain."
+  }
+]
